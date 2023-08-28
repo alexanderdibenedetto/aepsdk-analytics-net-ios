@@ -1,0 +1,42 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AEPAnalytics
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+@_exported import AEPAnalytics
+import AEPCore
+import AEPServices
+import Foundation
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+@_inheritsConvenienceInitializers @available(iOSApplicationExtension, unavailable)
+@available(tvOSApplicationExtension, unavailable)
+@objc(AEPMobileAnalytics) public class Analytics : AEPAnalytics.AnalyticsBase {
+  @objc required public init?(runtime: AEPCore.ExtensionRuntime)
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(AEPMobileAnalyticsAppExtension) public class AnalyticsAppExtension : AEPAnalytics.AnalyticsBase {
+  @objc required public init?(runtime: AEPCore.ExtensionRuntime)
+  @objc deinit
+}
+@objc public class AnalyticsBase : ObjectiveC.NSObject, AEPCore.Extension {
+  @objc final public let runtime: AEPCore.ExtensionRuntime
+  @objc final public let name: Swift.String
+  @objc final public let friendlyName: Swift.String
+  @objc public static let extensionVersion: Swift.String
+  @objc final public let metadata: [Swift.String : Swift.String]?
+  @objc required public init?(runtime: AEPCore.ExtensionRuntime)
+  @objc public func onRegistered()
+  @objc public func onUnregistered()
+  @objc public func readyForEvent(_ event: AEPCore.Event) -> Swift.Bool
+  @objc deinit
+}
+@objc extension AEPAnalytics.AnalyticsBase {
+  @objc(clearQueue) public static func clearQueue()
+  @objc(getQueueSize:) public static func getQueueSize(completion: @escaping (Swift.Int, Swift.Error?) -> Swift.Void)
+  @objc(sendQueuedHits) public static func sendQueuedHits()
+  @objc(getTrackingIdentifier:) public static func getTrackingIdentifier(completion: @escaping (Swift.String?, Swift.Error?) -> Swift.Void)
+  @objc(getVisitorIdentifier:) public static func getVisitorIdentifier(completion: @escaping (Swift.String?, Swift.Error?) -> Swift.Void)
+  @objc(setVisitorIdentifier:) public static func setVisitorIdentifier(visitorIdentifier: Swift.String)
+}

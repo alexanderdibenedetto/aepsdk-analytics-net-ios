@@ -1,0 +1,2779 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AEPCore",
+        "printedName": "AEPCore",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPCore",
+        "printedName": "AEPCore",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPCore",
+        "printedName": "AEPCore",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "AEPCore",
+        "printedName": "AEPCore",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPCore",
+        "printedName": "AEPCore",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AnalyticsAppExtension",
+        "printedName": "AnalyticsAppExtension",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(runtime:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AEPAnalytics.AnalyticsAppExtension?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnalyticsAppExtension",
+                    "printedName": "AEPAnalytics.AnalyticsAppExtension",
+                    "usr": "c:@M@AEPAnalytics@objc(cs)AEPMobileAnalyticsAppExtension"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ExtensionRuntime",
+                "printedName": "AEPCore.ExtensionRuntime",
+                "usr": "c:@M@AEPCore@objc(pl)AEPExtensionRuntime"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AEPMobileAnalyticsAppExtension(im)initWithRuntime:",
+            "mangledName": "$s12AEPAnalytics21AnalyticsAppExtensionC7runtimeACSg7AEPCore0D7Runtime_p_tcfc",
+            "moduleName": "AEPAnalytics",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithRuntime:",
+            "declAttributes": [
+              "ObjC",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AEPAnalytics@objc(cs)AEPMobileAnalyticsAppExtension",
+        "mangledName": "$s12AEPAnalytics21AnalyticsAppExtensionC",
+        "moduleName": "AEPAnalytics",
+        "objc_name": "AEPMobileAnalyticsAppExtension",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "superclassUsr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "AEPAnalytics.AnalyticsBase",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Extension",
+            "printedName": "Extension",
+            "usr": "c:@M@AEPCore@objc(pl)AEPExtension",
+            "mangledName": "$s7AEPCore9ExtensionP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AnalyticsBase",
+        "printedName": "AnalyticsBase",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "runtime",
+            "printedName": "runtime",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ExtensionRuntime",
+                "printedName": "AEPCore.ExtensionRuntime",
+                "usr": "c:@M@AEPCore@objc(pl)AEPExtensionRuntime"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(py)runtime",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC7runtime7AEPCore16ExtensionRuntime_pvp",
+            "moduleName": "AEPAnalytics",
+            "objc_name": "runtime",
+            "declAttributes": [
+              "ObjC",
+              "HasStorage",
+              "Final",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExtensionRuntime",
+                    "printedName": "AEPCore.ExtensionRuntime",
+                    "usr": "c:@M@AEPCore@objc(pl)AEPExtensionRuntime"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(im)runtime",
+                "mangledName": "$s12AEPAnalytics13AnalyticsBaseC7runtime7AEPCore16ExtensionRuntime_pvg",
+                "moduleName": "AEPAnalytics",
+                "implicit": true,
+                "objc_name": "runtime",
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "name",
+            "printedName": "name",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(py)name",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC4nameSSvp",
+            "moduleName": "AEPAnalytics",
+            "objc_name": "name",
+            "declAttributes": [
+              "HasInitialValue",
+              "ObjC",
+              "HasStorage",
+              "Final",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(im)name",
+                "mangledName": "$s12AEPAnalytics13AnalyticsBaseC4nameSSvg",
+                "moduleName": "AEPAnalytics",
+                "implicit": true,
+                "objc_name": "name",
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "friendlyName",
+            "printedName": "friendlyName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(py)friendlyName",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC12friendlyNameSSvp",
+            "moduleName": "AEPAnalytics",
+            "objc_name": "friendlyName",
+            "declAttributes": [
+              "HasInitialValue",
+              "ObjC",
+              "HasStorage",
+              "Final",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(im)friendlyName",
+                "mangledName": "$s12AEPAnalytics13AnalyticsBaseC12friendlyNameSSvg",
+                "moduleName": "AEPAnalytics",
+                "implicit": true,
+                "objc_name": "friendlyName",
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "extensionVersion",
+            "printedName": "extensionVersion",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(cpy)extensionVersion",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC16extensionVersionSSvpZ",
+            "moduleName": "AEPAnalytics",
+            "static": true,
+            "objc_name": "extensionVersion",
+            "declAttributes": [
+              "HasInitialValue",
+              "ObjC",
+              "HasStorage",
+              "Final",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(cm)extensionVersion",
+                "mangledName": "$s12AEPAnalytics13AnalyticsBaseC16extensionVersionSSvgZ",
+                "moduleName": "AEPAnalytics",
+                "static": true,
+                "implicit": true,
+                "objc_name": "extensionVersion",
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "metadata",
+            "printedName": "metadata",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(py)metadata",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC8metadataSDyS2SGSgvp",
+            "moduleName": "AEPAnalytics",
+            "objc_name": "metadata",
+            "declAttributes": [
+              "HasInitialValue",
+              "ObjC",
+              "HasStorage",
+              "Final",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.String : Swift.String]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dictionary",
+                        "printedName": "[Swift.String : Swift.String]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:SD"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(im)metadata",
+                "mangledName": "$s12AEPAnalytics13AnalyticsBaseC8metadataSDyS2SGSgvg",
+                "moduleName": "AEPAnalytics",
+                "implicit": true,
+                "objc_name": "metadata",
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(runtime:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AEPAnalytics.AnalyticsBase?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnalyticsBase",
+                    "printedName": "AEPAnalytics.AnalyticsBase",
+                    "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ExtensionRuntime",
+                "printedName": "AEPCore.ExtensionRuntime",
+                "usr": "c:@M@AEPCore@objc(pl)AEPExtensionRuntime"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(im)initWithRuntime:",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC7runtimeACSg7AEPCore16ExtensionRuntime_p_tcfc",
+            "moduleName": "AEPAnalytics",
+            "objc_name": "initWithRuntime:",
+            "declAttributes": [
+              "ObjC",
+              "Required",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "onRegistered",
+            "printedName": "onRegistered()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(im)onRegistered",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC12onRegisteredyyF",
+            "moduleName": "AEPAnalytics",
+            "objc_name": "onRegistered",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onUnregistered",
+            "printedName": "onUnregistered()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(im)onUnregistered",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC14onUnregisteredyyF",
+            "moduleName": "AEPAnalytics",
+            "objc_name": "onUnregistered",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "readyForEvent",
+            "printedName": "readyForEvent(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Event",
+                "printedName": "AEPCore.Event",
+                "usr": "c:@M@AEPCore@objc(cs)AEPEvent"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(im)readyForEvent:",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC13readyForEventySb7AEPCore0F0CF",
+            "moduleName": "AEPAnalytics",
+            "objc_name": "readyForEvent:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AnalyticsBase",
+                "printedName": "AEPAnalytics.AnalyticsBase",
+                "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase(im)init",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseCACycfc",
+            "moduleName": "AEPAnalytics",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "clearQueue",
+            "printedName": "clearQueue()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@AEPAnalytics@objc(cs)AnalyticsBase(cm)clearQueue",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC10clearQueueyyFZ",
+            "moduleName": "AEPAnalytics",
+            "static": true,
+            "objc_name": "clearQueue",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getQueueSize",
+            "printedName": "getQueueSize(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Int, Swift.Error?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.Int, Swift.Error?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Error?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@AEPAnalytics@objc(cs)AnalyticsBase(cm)getQueueSize:",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC12getQueueSize10completionyySi_s5Error_pSgtc_tFZ",
+            "moduleName": "AEPAnalytics",
+            "static": true,
+            "objc_name": "getQueueSize:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sendQueuedHits",
+            "printedName": "sendQueuedHits()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@AEPAnalytics@objc(cs)AnalyticsBase(cm)sendQueuedHits",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC14sendQueuedHitsyyFZ",
+            "moduleName": "AEPAnalytics",
+            "static": true,
+            "objc_name": "sendQueuedHits",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getTrackingIdentifier",
+            "printedName": "getTrackingIdentifier(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String?, Swift.Error?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.String?, Swift.Error?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.String?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Error?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@AEPAnalytics@objc(cs)AnalyticsBase(cm)getTrackingIdentifier:",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC21getTrackingIdentifier10completionyySSSg_s5Error_pSgtc_tFZ",
+            "moduleName": "AEPAnalytics",
+            "static": true,
+            "objc_name": "getTrackingIdentifier:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVisitorIdentifier",
+            "printedName": "getVisitorIdentifier(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String?, Swift.Error?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.String?, Swift.Error?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.String?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Error?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@AEPAnalytics@objc(cs)AnalyticsBase(cm)getVisitorIdentifier:",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC20getVisitorIdentifier10completionyySSSg_s5Error_pSgtc_tFZ",
+            "moduleName": "AEPAnalytics",
+            "static": true,
+            "objc_name": "getVisitorIdentifier:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setVisitorIdentifier",
+            "printedName": "setVisitorIdentifier(visitorIdentifier:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@AEPAnalytics@objc(cs)AnalyticsBase(cm)setVisitorIdentifier:",
+            "mangledName": "$s12AEPAnalytics13AnalyticsBaseC20setVisitorIdentifier07visitorF0ySS_tFZ",
+            "moduleName": "AEPAnalytics",
+            "static": true,
+            "objc_name": "setVisitorIdentifier:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AEPAnalytics@objc(cs)AnalyticsBase",
+        "mangledName": "$s12AEPAnalytics13AnalyticsBaseC",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Extension",
+            "printedName": "Extension",
+            "usr": "c:@M@AEPCore@objc(pl)AEPExtension",
+            "mangledName": "$s7AEPCore9ExtensionP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "AEPCore",
+        "printedName": "AEPCore",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "AEPCore",
+        "printedName": "AEPCore",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPCore",
+        "printedName": "AEPCore",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      },
+      {
+        "kind": "Import",
+        "name": "AEPCore",
+        "printedName": "AEPCore",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AEPServices",
+        "printedName": "AEPServices",
+        "declKind": "Import",
+        "moduleName": "AEPAnalytics"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "StringLiteral",
+      "offset": 860,
+      "length": 16,
+      "value": "\"AnalyticsState\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "Dictionary",
+      "offset": 3968,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 721,
+      "length": 28,
+      "value": "\"com.adobe.module.analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 808,
+      "length": 11,
+      "value": "\"Analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 878,
+      "length": 7,
+      "value": "\"4.0.0\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1093,
+      "length": 40,
+      "value": "\"com.adobe.module.analyticsreorderqueue\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1193,
+      "length": 7,
+      "value": "\"lnk_o\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1259,
+      "length": 11,
+      "value": "\"AMACTION:\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1329,
+      "length": 14,
+      "value": "\"ADBINTERNAL:\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1402,
+      "length": 4,
+      "value": "\"&&\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1465,
+      "length": 12,
+      "value": "\"foreground\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1536,
+      "length": 12,
+      "value": "\"background\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1607,
+      "length": 2,
+      "value": "33"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1669,
+      "length": 11,
+      "value": "\"AdobeLink\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1739,
+      "length": 13,
+      "value": "\"SessionInfo\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1804,
+      "length": 7,
+      "value": "\"Crash\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1863,
+      "length": 11,
+      "value": "\"Lifecycle\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1939,
+      "length": 12,
+      "value": "\"stateowner\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1990,
+      "length": 28,
+      "value": "\"com.adobe.module.analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2057,
+      "length": 11,
+      "value": "\"forcekick\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2107,
+      "length": 16,
+      "value": "\"clearhitsqueue\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2162,
+      "length": 5,
+      "value": "\"aid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2206,
+      "length": 14,
+      "value": "\"getqueuesize\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2259,
+      "length": 11,
+      "value": "\"queuesize\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2309,
+      "length": 15,
+      "value": "\"trackinternal\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2363,
+      "length": 8,
+      "value": "\"action\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2410,
+      "length": 7,
+      "value": "\"state\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2456,
+      "length": 13,
+      "value": "\"contextdata\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2517,
+      "length": 25,
+      "value": "\"analyticsserverresponse\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2590,
+      "length": 5,
+      "value": "\"vid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2646,
+      "length": 4,
+      "value": "\"an\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2689,
+      "length": 9,
+      "value": "\"headers\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2732,
+      "length": 6,
+      "value": "\"ETag\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2774,
+      "length": 8,
+      "value": "\"Server\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2824,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2885,
+      "length": 24,
+      "value": "\"requestEventIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2940,
+      "length": 9,
+      "value": "\"hitHost\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2979,
+      "length": 8,
+      "value": "\"hitUrl\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3027,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3067,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3113,
+      "length": 22,
+      "value": "\"triggeredconsequence\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3160,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3193,
+      "length": 8,
+      "value": "\"detail\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3228,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3297,
+      "length": 4,
+      "value": "\"an\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3375,
+      "length": 16,
+      "value": "\"a.InstallEvent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3430,
+      "length": 15,
+      "value": "\"a.LaunchEvent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3483,
+      "length": 14,
+      "value": "\"a.CrashEvent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3537,
+      "length": 16,
+      "value": "\"a.UpgradeEvent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3599,
+      "length": 21,
+      "value": "\"a.DailyEngUserEvent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3668,
+      "length": 23,
+      "value": "\"a.MonthlyEngUserEvent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3726,
+      "length": 15,
+      "value": "\"a.InstallDate\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3772,
+      "length": 12,
+      "value": "\"a.Launches\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3830,
+      "length": 21,
+      "value": "\"a.PrevSessionLength\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3897,
+      "length": 21,
+      "value": "\"a.DaysSinceFirstUse\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3963,
+      "length": 20,
+      "value": "\"a.DaysSinceLastUse\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4017,
+      "length": 13,
+      "value": "\"a.HourOfDay\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4064,
+      "length": 13,
+      "value": "\"a.DayOfWeek\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4116,
+      "length": 13,
+      "value": "\"a.OSVersion\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4174,
+      "length": 9,
+      "value": "\"a.AppID\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4229,
+      "length": 24,
+      "value": "\"a.DaysSinceLastUpgrade\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4298,
+      "length": 24,
+      "value": "\"a.LaunchesSinceUpgrade\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4367,
+      "length": 8,
+      "value": "\"a.adid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4409,
+      "length": 14,
+      "value": "\"a.DeviceName\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4463,
+      "length": 14,
+      "value": "\"a.Resolution\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4512,
+      "length": 15,
+      "value": "\"a.CarrierName\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4556,
+      "length": 10,
+      "value": "\"a.locale\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4602,
+      "length": 16,
+      "value": "\"a.systemLocale\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4649,
+      "length": 11,
+      "value": "\"a.RunMode\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4705,
+      "length": 24,
+      "value": "\"a.ignoredSessionLength\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4762,
+      "length": 10,
+      "value": "\"a.action\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4814,
+      "length": 18,
+      "value": "\"a.internalaction\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4876,
+      "length": 19,
+      "value": "\"a.TimeSinceLaunch\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4927,
+      "length": 14,
+      "value": "\"a.loc.poi.id\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4975,
+      "length": 11,
+      "value": "\"a.loc.poi\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 5029,
+      "length": 24,
+      "value": "\"a.DebugEventIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 5123,
+      "length": 12,
+      "value": "\"CrashEvent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 5168,
+      "length": 10,
+      "value": "\"a.action\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 5220,
+      "length": 18,
+      "value": "\"a.internalaction\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5365,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5408,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5465,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5518,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5557,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5612,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5671,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5745,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "FloatLiteral",
+      "offset": 5821,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5894,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5970,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6054,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6119,
+      "length": 5,
+      "value": "\"mid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6155,
+      "length": 6,
+      "value": "\"aamb\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6201,
+      "length": 7,
+      "value": "\"aamlh\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6238,
+      "length": 9,
+      "value": "\"mcorgid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6327,
+      "length": 24,
+      "value": "\"mostrecenthittimestamp\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6377,
+      "length": 5,
+      "value": "\"aid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6408,
+      "length": 5,
+      "value": "\"vid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6449,
+      "length": 15,
+      "value": "\"data.migrated\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6539,
+      "length": 32,
+      "value": "\"ADOBEMOBILE_STOREDDEFAULTS_AID\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6604,
+      "length": 38,
+      "value": "\"ADOBEMOBILE_STOREDDEFAULTS_IGNOREAID\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6668,
+      "length": 46,
+      "value": "\"AOMS_AppMeasurement_StoredDefaults_VisitorID\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6765,
+      "length": 38,
+      "value": "\"ADOBEMOBILE_STOREDDEFAULTS_AIDSYNCED\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6840,
+      "length": 24,
+      "value": "\"ADBMobileLastTimestamp\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6902,
+      "length": 29,
+      "value": "\"ANALYTICS_WORKER_CURRENT_ID\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 6971,
+      "length": 32,
+      "value": "\"ANALYTICS_WORKER_CURRENT_STAMP\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7079,
+      "length": 59,
+      "value": "\"Adobe.AnalyticsDataStorage.ADOBEMOBILE_STOREDDEFAULTS_AID\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7171,
+      "length": 65,
+      "value": "\"Adobe.AnalyticsDataStorage.ADOBEMOBILE_STOREDDEFAULTS_IGNOREAID\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7262,
+      "length": 74,
+      "value": "\"Adobe.AnalyticsDataStorage.ADOBEMOBILE_STOREDDEFAULTS_VISITOR_IDENTIFIER\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7444,
+      "length": 56,
+      "value": "\"Adobe.visitorIDServiceDataStore.ADOBEMOBILE_VISITOR_ID\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7566,
+      "length": 58,
+      "value": "\"Adobe.AnalyticsDataStorage.mostRecentHitTimestampSeconds\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7697,
+      "length": 16,
+      "value": "\"a.privacy.mode\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7760,
+      "length": 9,
+      "value": "\"unknown\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7816,
+      "length": 4,
+      "value": "\"pe\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7867,
+      "length": 6,
+      "value": "\"pev2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7920,
+      "length": 10,
+      "value": "\"pageName\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 7977,
+      "length": 5,
+      "value": "\"aid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8029,
+      "length": 4,
+      "value": "\"ce\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8080,
+      "length": 5,
+      "value": "\"vid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8132,
+      "length": 3,
+      "value": "\"t\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8182,
+      "length": 4,
+      "value": "\"ts\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8233,
+      "length": 4,
+      "value": "\"cp\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8284,
+      "length": 3,
+      "value": "\"c\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8334,
+      "length": 5,
+      "value": "\"cid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8386,
+      "length": 7,
+      "value": "\"ndh=1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8440,
+      "length": 19,
+      "value": "\"&p.&debug=true&.p\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 8541,
+      "length": 17,
+      "value": "\"Accept-Language\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11005,
+      "length": 30,
+      "value": "\"com.adobe.module.acquisition\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11070,
+      "length": 13,
+      "value": "\"contextdata\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11119,
+      "length": 14,
+      "value": "\"referrerdata\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11176,
+      "length": 18,
+      "value": "\"a.push.payloadId\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11243,
+      "length": 14,
+      "value": "\"a.message.id\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11388,
+      "length": 32,
+      "value": "\"com.adobe.module.configuration\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11461,
+      "length": 16,
+      "value": "\"global.privacy\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11529,
+      "length": 21,
+      "value": "\"experienceCloud.org\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11600,
+      "length": 32,
+      "value": "\"analytics.aamForwardingEnabled\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11680,
+      "length": 22,
+      "value": "\"analytics.batchLimit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11755,
+      "length": 26,
+      "value": "\"analytics.offlineEnabled\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11831,
+      "length": 17,
+      "value": "\"analytics.rsids\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11891,
+      "length": 18,
+      "value": "\"analytics.server\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 11962,
+      "length": 26,
+      "value": "\"analytics.launchHitDelay\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12050,
+      "length": 39,
+      "value": "\"analytics.backdatePreviousSessionInfo\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12220,
+      "length": 27,
+      "value": "\"com.adobe.module.identity\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12288,
+      "length": 5,
+      "value": "\"mid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12335,
+      "length": 6,
+      "value": "\"blob\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12392,
+      "length": 14,
+      "value": "\"locationhint\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12449,
+      "length": 16,
+      "value": "\"visitoridslist\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12514,
+      "length": 8,
+      "value": "\"a.adid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12564,
+      "length": 5,
+      "value": "\"vid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12611,
+      "length": 9,
+      "value": "\"id_type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12664,
+      "length": 11,
+      "value": "\"id_origin\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12712,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12774,
+      "length": 22,
+      "value": "\"authentication_state\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 12929,
+      "length": 28,
+      "value": "\"com.adobe.module.lifecycle\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13007,
+      "length": 23,
+      "value": "\"additionalcontextdata\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13063,
+      "length": 7,
+      "value": "\"appid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13109,
+      "length": 13,
+      "value": "\"carriername\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13160,
+      "length": 12,
+      "value": "\"crashevent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13218,
+      "length": 19,
+      "value": "\"dailyenguserevent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13275,
+      "length": 11,
+      "value": "\"dayofweek\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13336,
+      "length": 19,
+      "value": "\"dayssincefirstuse\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13404,
+      "length": 18,
+      "value": "\"dayssincelastuse\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13472,
+      "length": 22,
+      "value": "\"dayssincelastupgrade\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13532,
+      "length": 12,
+      "value": "\"devicename\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13588,
+      "length": 12,
+      "value": "\"resolution\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13638,
+      "length": 11,
+      "value": "\"hourofday\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13698,
+      "length": 22,
+      "value": "\"ignoredsessionlength\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13759,
+      "length": 13,
+      "value": "\"installdate\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13812,
+      "length": 14,
+      "value": "\"installevent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13865,
+      "length": 13,
+      "value": "\"launchevent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13913,
+      "length": 10,
+      "value": "\"launches\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 13972,
+      "length": 22,
+      "value": "\"launchessinceupgrade\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14041,
+      "length": 8,
+      "value": "\"action\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14098,
+      "length": 22,
+      "value": "\"lifecyclecontextdata\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14162,
+      "length": 7,
+      "value": "\"pause\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14211,
+      "length": 7,
+      "value": "\"start\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14251,
+      "length": 8,
+      "value": "\"locale\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14299,
+      "length": 14,
+      "value": "\"systemlocale\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14358,
+      "length": 18,
+      "value": "\"maxsessionlength\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14424,
+      "length": 21,
+      "value": "\"monthlyenguserevent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14488,
+      "length": 11,
+      "value": "\"osversion\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14549,
+      "length": 19,
+      "value": "\"prevsessionlength\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14627,
+      "length": 37,
+      "value": "\"previoussessionpausetimestampmillis\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14723,
+      "length": 37,
+      "value": "\"previoussessionstarttimestampmillis\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14795,
+      "length": 9,
+      "value": "\"runmode\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14844,
+      "length": 14,
+      "value": "\"sessionevent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14908,
+      "length": 22,
+      "value": "\"starttimestampmillis\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 14970,
+      "length": 14,
+      "value": "\"upgradeevent\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15030,
+      "length": 19,
+      "value": "\"previousosversion\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15091,
+      "length": 15,
+      "value": "\"previousappid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15214,
+      "length": 25,
+      "value": "\"com.adobe.module.places\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15277,
+      "length": 12,
+      "value": "\"currentpoi\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15325,
+      "length": 10,
+      "value": "\"regionid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15373,
+      "length": 12,
+      "value": "\"regionname\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15496,
+      "length": 21,
+      "value": "\"com.adobe.assurance\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15554,
+      "length": 11,
+      "value": "\"sessionid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15611,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15663,
+      "length": 6,
+      "value": "\"Etag\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15709,
+      "length": 8,
+      "value": "\"Server\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 15765,
+      "length": 19,
+      "value": "\"&p.&debug=true&.p\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15860,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "StringLiteral",
+      "offset": 795,
+      "length": 7,
+      "value": "\"UTF-8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1077,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 883,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 883,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 711,
+      "length": 23,
+      "value": "\"AnalyticsHitProcessor\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 2869,
+      "length": 19,
+      "value": "\"AnalyticsDatabase\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1898,
+      "length": 11,
+      "value": "\"Analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3345,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1835,
+      "length": 13,
+      "value": "\"AEPAnalytics.AnalyticsBase\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 699,
+      "length": 28,
+      "value": "\"AnalyticsRequestSerializer\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 689,
+      "length": 15,
+      "value": "\"URL+Analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 728,
+      "length": 68,
+      "value": "\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-._~\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 851,
+      "length": 17,
+      "value": "\"ContextDataUtil\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "Array",
+      "offset": 919,
+      "length": 1854,
+      "value": "[false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, false, false, false, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsTimer.swift",
+      "kind": "StringLiteral",
+      "offset": 706,
+      "length": 16,
+      "value": "\"AnalyticsTimer\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsMigrator.swift",
+      "kind": "StringLiteral",
+      "offset": 699,
+      "length": 19,
+      "value": "\"AnalyticsMigrator\""
+    }
+  ]
+}

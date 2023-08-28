@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0-ios</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>true</ImplicitUsings>
+    <IsBindingProject>true</IsBindingProject>
+    <IsTrimmable>false</IsTrimmable>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <SupportedOSPlatformVersion>13.0</SupportedOSPlatformVersion>
+    <AssemblyName>Adobe.AepSdk.Analytics.Net.iOS</AssemblyName>
+    <AssemblyTitle>Adobe.AepSdk.Analytics.Net.iOS</AssemblyTitle>
+    <Description>.NET MAUI Bindings for Adobe.AepSdk.Analytics.iOS</Description>
+    <Authors>Alexander DiBenedetto</Authors>
+    <PackageTags>Adobe MAUI AEP Analytics</PackageTags>
+    <ReleaseVersion>0.0.1</ReleaseVersion>
+    <AssemblyVersion>$(ReleaseVersion)</AssemblyVersion>
+    <PackageVersion>$(ReleaseVersion)</PackageVersion>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/alexanderdibenedetto/aepsdk-analytics-net-ios</PackageProjectUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <ObjcBindingApiDefinition Include="ApiDefinition.cs" />
+    <ObjcBindingCoreSource Include="StructsAndEnums.cs" />
+  </ItemGroup>
+    <ItemGroup>
+    <NativeReference Include="..\..\frameworks\AEPAnalytics.xcframework">
+      <Kind>Framework</Kind>
+      <ForceLoad>True</ForceLoad>
+      <SmartLink>False</SmartLink>
+      <Frameworks>Foundation</Frameworks>
+      <LinkerFlags>-Objc</LinkerFlags>
+    </NativeReference>
+  </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="Adobe.AepSdk.Core.Net.iOS" Version="0.0.1" />
+    </ItemGroup>
+</Project>
