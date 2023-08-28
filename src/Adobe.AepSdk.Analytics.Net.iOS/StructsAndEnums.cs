@@ -1,5 +1,4 @@
-﻿namespace aepsdk_analytics_net_ios {
+﻿namespace Adobe.AepSdk.Analytics.Net.iOS
+{
 
 }
-
-

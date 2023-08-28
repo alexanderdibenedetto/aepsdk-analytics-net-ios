@@ -31,4 +31,7 @@
       <LinkerFlags>-Objc</LinkerFlags>
     </NativeReference>
   </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="Adobe.AepSdk.Core.Net.iOS" Version="0.0.1" />
+    </ItemGroup>
 </Project>
