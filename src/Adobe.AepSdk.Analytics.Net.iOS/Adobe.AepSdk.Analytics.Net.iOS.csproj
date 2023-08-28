@@ -7,8 +7,8 @@
     <IsTrimmable>false</IsTrimmable>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <SupportedOSPlatformVersion>13.0</SupportedOSPlatformVersion>
-    <AssemblyName>Adobe.AepSdk.Analytics.Net.iOS.AepCore</AssemblyName>
-    <AssemblyTitle>Adobe.AepSdk.Analytics.Net.iOS.AepCore</AssemblyTitle>
+    <AssemblyName>Adobe.AepSdk.Analytics.Net.iOS</AssemblyName>
+    <AssemblyTitle>Adobe.AepSdk.Analytics.Net.iOS</AssemblyTitle>
     <Description>.NET MAUI Bindings for Adobe.AepSdk.Analytics.iOS</Description>
     <Authors>Alexander DiBenedetto</Authors>
     <PackageTags>Adobe MAUI AEP Analytics</PackageTags>
