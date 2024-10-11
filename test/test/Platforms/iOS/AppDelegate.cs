@@ -48,7 +48,7 @@ public class AppDelegate : MauiUIApplicationDelegate
                 new NSNumber(300)
             };
             NSDictionary<NSString, NSObject> dict = new(keys, objects);
-            AEPMobileCore_AEPCore_Swift_863.UpdateConfiguration(null, dict);
+            AEPMobileCore_AEPCore_Swift_915.UpdateConfiguration(null, dict);
 
             // register any extensions being used with adobe mobile.
             AEPMobileCore.RegisterExtensions(
@@ -71,9 +71,9 @@ public class AppDelegate : MauiUIApplicationDelegate
     {
         Debug.WriteLine($"Extension registrations complete.");
         // configure with your app id.
-        AEPMobileCore_AEPCore_Swift_863.ConfigureWithAppId(null, "com.companyname.test");
+        AEPMobileCore_AEPCore_Swift_915.ConfigureWithAppId(null, "com.companyname.test");
         // start the analytics collection lifecycle for the initial app open.
-        AEPMobileCore_AEPCore_Swift_832.LifecycleStart(null, null);
+        AEPMobileCore_AEPCore_Swift_884.LifecycleStart(null, null);
         Debug.WriteLine($"Adobe initialized successfully.");
     }
 }

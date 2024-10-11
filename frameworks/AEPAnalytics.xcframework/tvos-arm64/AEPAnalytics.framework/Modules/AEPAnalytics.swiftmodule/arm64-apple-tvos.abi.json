@@ -1271,6 +1271,62 @@
       "value": "[]"
     },
     {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "StringLiteral",
+      "offset": 7024,
+      "length": 88,
+      "value": "\"ExtractConfigurationInfo - Failed to extract configuration data (event data was null).\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "StringLiteral",
+      "offset": 8946,
+      "length": 80,
+      "value": "\"ExtractLifecycleInfo - Failed to extract lifecycle data (event data was null).\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "StringLiteral",
+      "offset": 11164,
+      "length": 78,
+      "value": "\"ExtractIdentityInfo - Failed to extract identity data (event data was null).\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "StringLiteral",
+      "offset": 12393,
+      "length": 74,
+      "value": "\"ExtractPlacesInfo - Failed to extract places data (event data was null).\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "StringLiteral",
+      "offset": 13318,
+      "length": 80,
+      "value": "\"ExtractAssuranceInfo - Failed to extract Assurance data (event data was null).\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14776,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14804,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsState.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15044,
+      "length": 4,
+      "value": "true"
+    },
+    {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
       "kind": "StringLiteral",
       "offset": 721,
@@ -1289,7 +1345,7 @@
       "kind": "StringLiteral",
       "offset": 878,
       "length": 7,
-      "value": "\"4.0.0\""
+      "value": "\"5.0.2\""
     },
     {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsConstants.swift",
@@ -2678,6 +2734,62 @@
       "value": "0"
     },
     {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1516,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "StringLiteral",
+      "offset": 2412,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "StringLiteral",
+      "offset": 3220,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3950,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4666,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4672,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "StringLiteral",
+      "offset": 4690,
+      "length": 45,
+      "value": "\"00\/00\/0000 00:00:00 0 \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsProperties.swift",
+      "kind": "StringLiteral",
+      "offset": 4734,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitResponse.swift",
       "kind": "StringLiteral",
       "offset": 883,
@@ -2699,11 +2811,781 @@
       "value": "\"AnalyticsHitProcessor\""
     },
     {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1034,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1704,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 2133,
+      "length": 91,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 2146,
+      "length": 1,
+      "value": "\" - Dropping Analytics hit, resetIdentities API was called after this request.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2245,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 2596,
+      "length": 90,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 2609,
+      "length": 1,
+      "value": "\" - Dropping Analytics hit, timestamp exceeds offline disabled wait threshold\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2707,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2738,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3059,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3438,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3676,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3740,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3789,
+      "length": 98,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3802,
+      "length": 1,
+      "value": "\" - Adjusting out of order hit timestamp \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3867,
+      "length": 2,
+      "value": "\" -> \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3886,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4198,
+      "length": 67,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4211,
+      "length": 1,
+      "value": "\" - Retrying Analytics hit, error generating base url.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4294,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4379,
+      "length": 59,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4405,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4422,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4426,
+      "length": 9,
+      "value": "100000000"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4437,
+      "length": 9,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4494,
+      "length": 62,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4507,
+      "length": 1,
+      "value": "\" - Retrying Analytics hit, error generating url.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4585,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6518,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6599,
+      "length": 114,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6612,
+      "length": 1,
+      "value": "\" - Analytics hit request with url \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6667,
+      "length": 3,
+      "value": "\" and payload \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6694,
+      "length": 4,
+      "value": "\" sent successfully\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 7288,
+      "length": 52,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 7301,
+      "length": 1,
+      "value": "\" - Dispatching Analytics hit response.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7494,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7617,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 7699,
+      "length": 206,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 7712,
+      "length": 1,
+      "value": "\" - Retrying Analytics hit, request with url \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 7777,
+      "length": 6,
+      "value": "\" failed with error \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 7840,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 7843,
+      "length": 3,
+      "value": "\" and recoverable status code \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7901,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 7904,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7930,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8117,
+      "length": 91,
+      "value": "\"recoverable network error:(\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8177,
+      "length": 1,
+      "value": "\") code:(\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8206,
+      "length": 1,
+      "value": "\")\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8278,
+      "length": 95,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8291,
+      "length": 1,
+      "value": "\" - Analytics hit failed with \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8331,
+      "length": 1,
+      "value": "\". Will retry in \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8363,
+      "length": 7,
+      "value": "\" seconds.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8403,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8583,
+      "length": 145,
+      "value": "\"failed with unrecoverable network error:(\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8686,
+      "length": 1,
+      "value": "\") code:(\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8723,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8726,
+      "length": 1,
+      "value": "\")\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8770,
+      "length": 91,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8783,
+      "length": 1,
+      "value": "\" - Dropping Analytics hit, request with url \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8848,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8860,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8886,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 10184,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 10681,
+      "length": 21,
+      "value": "\"&ts=\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 10701,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 10729,
+      "length": 21,
+      "value": "\"&ts=\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsHitProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 10749,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
       "kind": "StringLiteral",
       "offset": 2869,
       "length": 19,
       "value": "\"AnalyticsDatabase\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 3425,
+      "length": 77,
+      "value": "\"Failed to create Reorder Queue, Analytics Database could not be initialized\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 3712,
+      "length": 74,
+      "value": "\"Failed to create Data Queue, Analytics Database could not be initialized\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4067,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4107,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "Dictionary",
+      "offset": 4143,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 4442,
+      "length": 33,
+      "value": "\"waitForAdditionalData - \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 4474,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4558,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4620,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 4736,
+      "length": 39,
+      "value": "\"cancelWaitForAdditionalData - \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 4774,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 5005,
+      "length": 62,
+      "value": "\"KickWithAdditionalData - \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 5038,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 5066,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5150,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5213,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 5454,
+      "length": 59,
+      "value": "\"KickWithAdditionalData - done waiting for additional data\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "Dictionary",
+      "offset": 5899,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5944,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 6102,
+      "length": 54,
+      "value": "\"queueHit - \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 6124,
+      "length": 13,
+      "value": "\" isBackdateHit:\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 6155,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 6351,
+      "length": 66,
+      "value": "\"queueHit - Dropping Analytics hit, failed to encode AnalyticsHit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 6666,
+      "length": 35,
+      "value": "\"queueHit - Queueing backdated hit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 6818,
+      "length": 88,
+      "value": "\"queueHit - Dropping backdate hit, as we have begun processing hits for current session\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 7028,
+      "length": 80,
+      "value": "\"queueHit - Queueing hit in reorder queue as we are waiting for additional data\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 7228,
+      "length": 39,
+      "value": "\"queueHit - Queueing hit in main queue\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7372,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7458,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "Dictionary",
+      "offset": 7689,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7722,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7758,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 8049,
+      "length": 78,
+      "value": "\"appendAdditionalData - Dropping Analytics hit, failed to decode AnalyticsHit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 8524,
+      "length": 78,
+      "value": "\"appendAdditionalData - Dropping Analytics hit, failed to encode AnalyticsHit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8843,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 8895,
+      "length": 53,
+      "value": "\"moveHitsFromReorderQueue - No hits in reorder queue\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 9019,
+      "length": 85,
+      "value": "\"moveHitsFromReorderQueue - Moving queued hits \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 9070,
+      "length": 4,
+      "value": "\" from reorder queue -> main queue\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 9372,
+      "length": 46,
+      "value": "\"Kick - ignoreBatchLimit \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 9416,
+      "length": 1,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 9607,
+      "length": 68,
+      "value": "\"Kick - Failed to kick database hits (Analytics is not configured).\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 9856,
+      "length": 71,
+      "value": "\"Kick - Failed to kick database hits (Privacy status is not opted-in).\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsDatabase.swift",
+      "kind": "StringLiteral",
+      "offset": 10282,
+      "length": 39,
+      "value": "\"Kick - Begin processing database hits\""
     },
     {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
@@ -2721,10 +3603,703 @@
     },
     {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7624,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 9472,
+      "length": 67,
+      "value": "\"Event with id \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 9509,
+      "length": 9,
+      "value": "\" contained no data, ignoring.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 9604,
+      "length": 78,
+      "value": "\"handleRulesEngineResponse - Processing event with id \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 9680,
+      "length": 1,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 9847,
+      "length": 94,
+      "value": "\"handleRulesEngineResponse - Ignoring as missing consequence data for \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 9939,
+      "length": 1,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 10177,
+      "length": 103,
+      "value": "\"handleRulesEngineResponse - Ignoring as consequence type is not analytics for \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 10278,
+      "length": 1,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 10438,
+      "length": 95,
+      "value": "\"handleRulesEngineResponse - Ignoring as consequence id is missing for \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 10531,
+      "length": 1,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 10787,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 11228,
+      "length": 91,
+      "value": "\"handleAnalyticsTrackEvent - Ignoring track event (event is of unexpected type or source).\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 12085,
+      "length": 37,
+      "value": "\"track - event data is nil or empty.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12523,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 12553,
+      "length": 13,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 12565,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13138,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 13227,
+      "length": 78,
+      "value": "\"handleConfigurationResponseEvent - Publish analytics shared state on bootup.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13340,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 13573,
+      "length": 119,
+      "value": "\"handleOptOut - Privacy status is opted-out. Queued Analytics hits, stored state data, and properties will be cleared.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 14724,
+      "length": 101,
+      "value": "\"handleLifecycleEvents - Exiting, Lifecycle timer is already running and this is a duplicate request\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 16756,
+      "length": 109,
+      "value": "\"handleAnalyticsRequestIdentityEvent - Privacy is opted out, ignoring the update visitor identifier request.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 17535,
+      "length": 83,
+      "value": "\"handleAnalyticsRequestContentEvent - Returning early, event data is nil or empty.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17935,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18159,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 18639,
+      "length": 43,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 18652,
+      "length": 1,
+      "value": "\" - Resetting all identifiers.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 20398,
+      "length": 25,
+      "value": "\"TrackingIdentifierValue\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 20933,
+      "length": 101,
+      "value": "\"DispatchQueueSize - Dispatching Analytics hit queue size response event with eventdata \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 21033,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 21103,
+      "length": 16,
+      "value": "\"QueueSizeValue\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 21615,
+      "length": 19,
+      "value": "\"AnalyticsResponse\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 22559,
+      "length": 83,
+      "value": "\"trackLifecycle - Failed to track lifecycle event (context data was null or empty)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 23029,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 24376,
+      "length": 13,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 24388,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 25103,
+      "length": 13,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 25115,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 25235,
+      "length": 45,
+      "value": "\"trackLifecycle - Cancelling lifecycle timer\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25390,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 25436,
+      "length": 55,
+      "value": "\"trackLifecycle - Append lifecycle data to pending hit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 25806,
+      "length": 66,
+      "value": "\"trackLifecycle - Sending lifecycle data as seperate tracking hit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 25989,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26306,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26436,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 26466,
+      "length": 13,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 26478,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 27265,
+      "length": 46,
+      "value": "\"trackAcquisition - Cancelling referrer timer\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 27421,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 27467,
+      "length": 56,
+      "value": "\"trackAcquisition - Append referrer data to pending hit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 27843,
+      "length": 67,
+      "value": "\"trackAcquisition - Sending referrer data as seperate tracking hit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 28031,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 28351,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 28483,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 28513,
+      "length": 13,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 28525,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 29174,
+      "length": 49,
+      "value": "\"track - Dropping the request, eventData is nil.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 29356,
+      "length": 60,
+      "value": "\"track - Dropping the request, privacy status is opted out.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 29546,
+      "length": 60,
+      "value": "\"track - Dropping the request, Analytics is not configured.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 30701,
+      "length": 49,
+      "value": "\"processAnalyticsContextData - trackData is nil.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 30771,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 31309,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 31660,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 31792,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 32908,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 32998,
+      "length": 49,
+      "value": "\"processAnalyticsVars - track event data is nil.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 33431,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 33476,
+      "length": 107,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 33569,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 33582,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 35565,
+      "length": 72,
+      "value": "\"backdateLifecycleCrash - Backdating the lifecycle session crash event.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 35688,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 36222,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 36525,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 36648,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 36667,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 37397,
+      "length": 75,
+      "value": "\"backdateLifecycleSessionInfo - Backdating the previous lifecycle session.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 37525,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "Dictionary",
+      "offset": 38124,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 38436,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 38560,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 38651,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 38670,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 38869,
+      "length": 11,
+      "value": "\"Analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 38882,
+      "length": 125,
+      "value": "\"waitForLifecycleData - Lifecycle timer scheduled with timeout \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 39006,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 39236,
+      "length": 11,
+      "value": "\"Analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 39249,
+      "length": 77,
+      "value": "\"waitForLifecycleData - Lifecycle timeout has expired without Lifecycle data\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 39596,
+      "length": 11,
+      "value": "\"Analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 39609,
+      "length": 75,
+      "value": "\"waitForAcquisitionData - Referrer timer scheduled with timeout \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 39683,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 39860,
+      "length": 11,
+      "value": "\"Analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 39873,
+      "length": 78,
+      "value": "\"WaitForAcquisitionData - Launch hit delay has expired without referrer data.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
       "kind": "StringLiteral",
       "offset": 1835,
       "length": 13,
       "value": "\"AEPAnalytics.AnalyticsBase\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 40766,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 40836,
+      "length": 139,
+      "value": "\"cleanContextData - Dropping Key(\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 40878,
+      "length": 1,
+      "value": "\") with Value(\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 40922,
+      "length": 1,
+      "value": "\"). Value should be String, Number, Bool or Character\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics.swift",
+      "kind": "BooleanLiteral",
+      "offset": 41000,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
@@ -2734,11 +4309,172 @@
       "value": "\"AnalyticsRequestSerializer\""
     },
     {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 1230,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 1341,
+      "length": 83,
+      "value": "\"generateAnalyticsCustomerIdString - Visitor ID's are nil. Returning empty string.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 1921,
+      "length": 88,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 2005,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 2008,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "Dictionary",
+      "offset": 2085,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "Dictionary",
+      "offset": 3019,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "Dictionary",
+      "offset": 3278,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 4396,
+      "length": 14,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 4406,
+      "length": 1,
+      "value": "\".id\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 4705,
+      "length": 14,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsRequestSerializer.swift",
+      "kind": "StringLiteral",
+      "offset": 4715,
+      "length": 1,
+      "value": "\".as\""
+    },
+    {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
       "kind": "StringLiteral",
       "offset": 689,
       "length": 15,
       "value": "\"URL+Analytics\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1253,
+      "length": 7,
+      "value": "\"https\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1328,
+      "length": 83,
+      "value": "\"\/b\/ss\/\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1352,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1355,
+      "length": 1,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1397,
+      "length": 1,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1408,
+      "length": 1,
+      "value": "\"\/s\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1512,
+      "length": 72,
+      "value": "\"getAnalyticsBaseUrl - Error building Analytics base URL, returning nil\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 3437,
+      "length": 4,
+      "value": "\"10\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 3444,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "Array",
+      "offset": 3598,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/URL+Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 3706,
+      "length": 92,
+      "value": "\"getMarketingCloudIdQueryParameters - Experience Cloud ID is nil, no query items to return.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
@@ -2762,6 +4498,454 @@
       "value": "[false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, false, false, false, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]"
     },
     {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 3752,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 3791,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 3826,
+      "length": 3,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4028,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4061,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 4921,
+      "length": 37,
+      "value": "\"translateContextData - data is nil.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 5153,
+      "length": 3,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5260,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 5795,
+      "length": 45,
+      "value": "\"serializeToQueryString - parameters is nil.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6330,
+      "length": 38,
+      "value": "\"&\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6348,
+      "length": 1,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6367,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6489,
+      "length": 20,
+      "value": "\"&\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6507,
+      "length": 1,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6664,
+      "length": 20,
+      "value": "\"&.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6683,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6934,
+      "length": 38,
+      "value": "\"&\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6952,
+      "length": 1,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 6971,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 7657,
+      "length": 41,
+      "value": "\"addValueToContextData - subkeys is nil.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7887,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8265,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 8979,
+      "length": 70,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 8992,
+      "length": 1,
+      "value": "\" - Returning early. Context data passed is nil or empty.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 9121,
+      "length": 22,
+      "value": "\".*(&c\\.(.*)&\\.c).*\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "Array",
+      "offset": 9280,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 9340,
+      "length": 104,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 9353,
+      "length": 1,
+      "value": "\" - Context data regular expression failed with exception:  (\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 9442,
+      "length": 1,
+      "value": "\")\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "Array",
+      "offset": 9517,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9551,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9644,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9710,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10350,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "Dictionary",
+      "offset": 10724,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 10751,
+      "length": 3,
+      "value": "\"c\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "Dictionary",
+      "offset": 11248,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 11275,
+      "length": 3,
+      "value": "\"c\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "Dictionary",
+      "offset": 11875,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 11959,
+      "length": 3,
+      "value": "\"&\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 12036,
+      "length": 3,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 12064,
+      "length": 3,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 12163,
+      "length": 3,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12263,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 12361,
+      "length": 3,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12401,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12558,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12648,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 12837,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 12897,
+      "length": 9,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 12905,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 12940,
+      "length": 18,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/ContextDataUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 12957,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "BooleanLiteral",
+      "offset": 966,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 1004,
+      "length": 21,
+      "value": "\"AnalyticsClearQueue\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1477,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 1515,
+      "length": 23,
+      "value": "\"AnalyticsGetQueueSize\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1763,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1971,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2304,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 2342,
+      "length": 25,
+      "value": "\"AnalyticsSendQueuedHits\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 2797,
+      "length": 32,
+      "value": "\"AnalyticsGetTrackingIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 3918,
+      "length": 31,
+      "value": "\"AnalyticsGetVisitorIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/Analytics+PublicAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 5104,
+      "length": 34,
+      "value": "\"AnalyticsUpdateVisitorIdentifier\""
+    },
+    {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsTimer.swift",
       "kind": "StringLiteral",
       "offset": 706,
@@ -2769,11 +4953,235 @@
       "value": "\"AnalyticsTimer\""
     },
     {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsTimer.swift",
+      "kind": "StringLiteral",
+      "offset": 1380,
+      "length": 36,
+      "value": "\"Referrer timer is already running.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsTimer.swift",
+      "kind": "StringLiteral",
+      "offset": 2176,
+      "length": 37,
+      "value": "\"Lifecycle timer is already running.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 1498,
+      "length": 3,
+      "value": "\"-\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1545,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1597,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 1694,
+      "length": 131,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 1704,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 1718,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 1767,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1820,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 1824,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 2137,
+      "length": 5,
+      "value": "\"TOS\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 2501,
+      "length": 8,
+      "value": "\"000000\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 2569,
+      "length": 3,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2607,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2668,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2729,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2790,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 2831,
+      "length": 26,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 2840,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 2848,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 2856,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3086,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 3090,
+      "length": 19,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 3108,
+      "length": 17,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsMigrator.swift",
       "kind": "StringLiteral",
       "offset": 699,
       "length": 19,
       "value": "\"AnalyticsMigrator\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsMigrator.swift",
+      "kind": "StringLiteral",
+      "offset": 1263,
+      "length": 46,
+      "value": "\"Migration started for Analytics data from v4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsMigrator.swift",
+      "kind": "StringLiteral",
+      "offset": 2346,
+      "length": 49,
+      "value": "\"Migration successful for Analytics data from v4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsMigrator.swift",
+      "kind": "StringLiteral",
+      "offset": 2657,
+      "length": 46,
+      "value": "\"Migration started for Analytics data from v5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsMigrator.swift",
+      "kind": "StringLiteral",
+      "offset": 3485,
+      "length": 49,
+      "value": "\"Migration successful for Analytics data from v5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsMigrator.swift",
+      "kind": "StringLiteral",
+      "offset": 3701,
+      "length": 70,
+      "value": "\"Migration started for visitor identifier from Identity to Analytics.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsMigrator.swift",
+      "kind": "StringLiteral",
+      "offset": 4166,
+      "length": 73,
+      "value": "\"Migration successful for visitor identifier from Identity to Analytics.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/aepsdk-analytics-ios\/aepsdk-analytics-ios\/AEPAnalytics\/Sources\/AnalyticsMigrator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4748,
+      "length": 4,
+      "value": "true"
     }
   ]
 }

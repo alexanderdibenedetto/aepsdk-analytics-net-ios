@@ -1,7 +1,7 @@
 framework module AEPAnalytics {
   umbrella header "AEPAnalytics.h"
-
   export *
+
   module * { export * }
 }
 
