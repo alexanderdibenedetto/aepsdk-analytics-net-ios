@@ -50,6 +50,8 @@ namespace Adobe.AepSdk.Analytics.Net.iOS
     }
 
     // @interface AEPMobileAnalytics : AnalyticsBase
+    //[Unavailable(PlatformName.TvOSAppExtension)]
+    //[Unavailable(PlatformName.iOSAppExtension)]
     [BaseType(typeof(AnalyticsBase))]
     interface AEPMobileAnalytics
     {
@@ -69,10 +71,10 @@ namespace Adobe.AepSdk.Analytics.Net.iOS
         NativeHandle Constructor(AEPExtensionRuntime runtime);
     }
 
-    // @interface AEPAnalytics_Swift_307 (AnalyticsBase)
+    // @interface AEPAnalytics_Swift_354 (AnalyticsBase)
     [Category]
     [BaseType(typeof(AnalyticsBase))]
-    interface AnalyticsBase_AEPAnalytics_Swift_307
+    interface AnalyticsBase_AEPAnalytics_Swift_354
     {
         // +(void)clearQueue;
         [Static]
