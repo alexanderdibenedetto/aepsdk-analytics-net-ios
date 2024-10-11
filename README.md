@@ -11,4 +11,4 @@ https://github.com/adobe/aepsdk-analytics-ios
 Adobe.AepSdk.Analytics.Net.iOS
 
 ## Usage
-Install the nuget package for net7.0-ios only. Register the analytics extension on iOS Startup using the appropriate methods in AEPMobileCore. All methods should be used as indicated in the Adobe Analytics iOS documentation. There are some included examples of usage in the sample project.
+Install the nuget package for net8.0-ios only. Register the analytics extension on iOS Startup using the appropriate methods in AEPMobileCore. All methods should be used as indicated in the Adobe Analytics iOS documentation. There are some included examples of usage in the sample project.
